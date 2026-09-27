@@ -14,7 +14,7 @@ env/
 data/raw/
 data/processed/
 models/
-*.h5
+
 *.pt
 *.pth
 *.onnx
