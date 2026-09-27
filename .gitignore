@@ -26,3 +26,9 @@ outputs/
 # OS/editor files
 .DS_Store
 .vscode/
+
+# Folders to ignore
+Boot/
+Sandal/
+Shoe/
+Sneaker/
