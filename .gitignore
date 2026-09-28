@@ -13,7 +13,7 @@ env/
 # ML/data artifacts
 data/raw/
 data/processed/
-models/
+
 
 *.pt
 *.pth
