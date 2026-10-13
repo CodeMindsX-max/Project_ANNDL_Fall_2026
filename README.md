@@ -5,7 +5,6 @@ Deep learning project for classifying footwear images into multiple categories.
 ## Team
 - Muhammad Aftab Nisar
 - Hafsa Gul
-- Zoya Shakoor
 
 ## Project Goal
 Train and evaluate deep learning models on a footwear image dataset with different categories (e.g., sneakers, sandals, boots, formal shoes).
