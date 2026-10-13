@@ -18,6 +18,7 @@ data/processed/
 *.pt
 *.pth
 *.onnx
+*.keras
 
 # Logs and outputs
 *.log
